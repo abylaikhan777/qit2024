@@ -118,4 +118,3 @@ let git = ((a * b) / c) / ( z - 3) % 2
   
 
 console.log(git)
-
