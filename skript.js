@@ -107,3 +107,15 @@ var e = 70;
 let total = (a + b) * c - d / e; 
 
 console.log(total)
+
+
+var a = 32;
+var b = 20;
+var c = 10;
+var z = 70;
+
+let git = ((a * b) / c) / ( z - 3) % 2
+  
+
+console.log(git)
+
