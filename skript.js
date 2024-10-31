@@ -115,6 +115,7 @@ var c = 10;
 var z = 70;
 
 let git = ((a * b) / c) / ( z - 3) % 2
+
   
 
 console.log(git)
